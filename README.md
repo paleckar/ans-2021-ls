@@ -23,7 +23,6 @@ Pro akceleraci výpočtů na grafické kartě (výrazně urychlí úlohy s konvo
 - Je možné získat i další plusové body za nadstandardně vypracovanou úlohu.
 - Úlohy se dělí na povinné a bonusové. Povinné úlohy musejí být splněny alespoň za 5 bodů (tj. 50 %). 
 - **Odevzdání úlohy po termínu je penalizováno odečtením 5 bodů!**
-- Bonusové úlohy deadline nemají.
 - Kopírování kódu bude penalizováno odečtením 1 bodu oběma odevzdávajícím, tedy i originálu, a to i opakovaně. Pokud např. budou odevzdány 3 stejné kopie jednoho kódu, každé z nich budou odečteny 2 body! Rozmyslete si tedy pořádně, zdali vypustíte svoje řešení úlohy "do světa".
 - Zcela či z podstatné části zkopírovaná úloha nebude uznána vůbec.
 
@@ -46,3 +45,11 @@ Pro akceleraci výpočtů na grafické kartě (výrazně urychlí úlohy s konvo
   - Validační skóre > 30 %: 2 body
   - Validační skóre > 40 %: 4 body
 - **deadline: 17.3.2021 7:59**
+
+### BONUS: Vícevrstvý perceptron
+- Notebook: [multilayer-perceptron.ipynb](multilayer-perceptron.ipynb)
+- Úkolem je rozšířit notebook o implementaci konfigurovatelného modelu s libovolným počtem vrstev.
+- Bodování:
+  - Obecná feed-forward síť: 6 bodů
+  - Skóre > 50 %: 4 body
+- **deadline: 31.5.2021 7:59**
