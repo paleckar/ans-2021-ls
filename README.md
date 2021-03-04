@@ -34,4 +34,15 @@ Pro akceleraci výpočtů na grafické kartě (výrazně urychlí úlohy s konvo
     - Validační skóre > 30 %: +1 bod
   - SVM: 3 body
     - Validační skóre > 30 %: +1 bod
-- **deadline: 16.3.2021 7:59**
+- **deadline: 17.3.2021 7:59**
+
+  
+### 2. Vícevrstvý perceptron
+- Notebook: [multilayer-perceptron.ipynb](multilayer-perceptron.ipynb)
+- Bodování:
+  - Dvouvrstvý perceptron: 4 body
+  - Kromě sigmoid i ReLU: 2 body
+  - Validační skóre < 20 %: 0 bodů
+  - Validační skóre > 30 %: 2 body
+  - Validační skóre > 40 %: 4 body
+- **deadline: 17.3.2021 7:59**
