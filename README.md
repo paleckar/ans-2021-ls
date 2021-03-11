@@ -53,3 +53,11 @@ Pro akceleraci výpočtů na grafické kartě (výrazně urychlí úlohy s konvo
   - Obecná feed-forward síť: 6 bodů
   - Skóre > 50 %: 4 body
 - **deadline: 31.5.2021 7:59**
+
+### 3. Úvod do konvoluce
+- Notebook: [conv-intro.ipynb](conv-intro.ipynb)
+- Bodování:
+  - konvoluce po kanálech: 2 body
+  - více filtrů najednou: 3 body
+  - konvoluce jako vrstva: 5 bodů
+- **deadline: 24.3.2020 7:59**
