@@ -69,3 +69,13 @@ Pro akceleraci výpočtů na grafické kartě (výrazně urychlí úlohy s konvo
   - Validační skóre > 85 %: 10 bodů
   - Validační skóre > 90 %: +5 bodů bonus
 - **deadline: 7.4.2021 7:59**
+
+### 5. Generování textu znakovou RNN
+- Notebook: [char-rnn.ipynb](char-rnn.ipynb)
+- Bodování:
+  - Mód `argmax` funkce `sample`: 1 bod
+  - Mód `proportional` funkce `sample`: 1 bod
+  - Funkční funkce `sample`: 1 bod
+  - Funkční generování textu: 2-7 bodů dle smysluplnosti
+  - Vlastní data: +4 body
+- **deadline: 14.4.2021 7:59**
